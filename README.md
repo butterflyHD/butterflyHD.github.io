@@ -1,2 +1,2 @@
 # Portfolio
-[SqueezeVSUnsqueeze](SqueezeVSUnsqueeze.mb)
+[SqueezeVSUnsqueeze](SqueezeVSUnsqueeze.md)
